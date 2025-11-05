@@ -10,5 +10,3 @@ public class SpringSecurityLabApplication {
         SpringApplication.run(SpringSecurityLabApplication.class, args);
     }
 }
-
-
